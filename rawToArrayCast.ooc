@@ -1,6 +1,6 @@
 
 /**
- * Converting from a raw C array to an ooc array by casting
+ * Converting from a raw C array to an array by casting
  */
 main: func {
     

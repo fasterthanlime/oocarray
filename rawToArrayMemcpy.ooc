@@ -1,6 +1,6 @@
 
 /**
- * Manually converting from a raw C array to an ooc array
+ * Manually converting from a raw C array to an array
  */
 main: func {
     
